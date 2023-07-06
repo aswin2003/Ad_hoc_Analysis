@@ -8,7 +8,7 @@ This project is part of the application process for the junior data analyst role
 ## Project Overview
 - **Task**: Analyzing 10 ad hoc requests using SQL queries and presenting insights to top-level management.
 - **Target Audience**: Top-level management at Atliq Hardwares.
-- **Dataset**: https://codebasics.io/challenge/codebasics-resume-project-challenge/7
+
 
 ## File Structure
 ``` 
